@@ -1,4 +1,4 @@
-module github.com/uniseraph/grpc-proxy v0.1.0
+module github.com/uniseraph/grpc-proxy 
 
 go 1.14
 
